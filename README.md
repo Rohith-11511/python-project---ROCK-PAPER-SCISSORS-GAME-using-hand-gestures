@@ -8,12 +8,12 @@ Features
  * Console output for choices and results.
 
 -Create a Virtual Environment:
-         * python -m venv myenv
+    * python -m venv myenv
          
 -Activate the Virtual Environment:
   * On Windows:
          myenv\Scripts\activate
   * On macOS/Linux:
-         source myenv/bin/activate
+         source myenv/bin/activate .
 -Install Dependencies: Once the virtual environment is activated, install the required packages:
-         pip install -r 
+         * pip install -r 
