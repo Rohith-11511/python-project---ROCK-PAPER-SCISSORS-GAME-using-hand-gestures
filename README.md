@@ -14,6 +14,7 @@ Activate the Virtual Environment:
   * On Windows:
          myenv\Scripts\activate
   * On macOS/Linux:
-         source myenv/bin/activate .
-Install Dependencies: Once the virtual environment is activated, install the required packages:
+         source myenv/bin/activate
+    
+ Install Dependencies: Once the virtual environment is activated, install the required packages:
   * pip install -r 
