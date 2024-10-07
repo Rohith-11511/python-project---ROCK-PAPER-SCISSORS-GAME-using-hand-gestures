@@ -7,13 +7,13 @@ Features
  * Simple game logic to determine the winner.
  * Console output for choices and results.
 
--Create a Virtual Environment:
-    * python -m venv myenv
+Create a Virtual Environment:
+  * python -m venv myenv
          
--Activate the Virtual Environment:
+Activate the Virtual Environment:
   * On Windows:
          myenv\Scripts\activate
   * On macOS/Linux:
          source myenv/bin/activate .
--Install Dependencies: Once the virtual environment is activated, install the required packages:
-         * pip install -r 
+Install Dependencies: Once the virtual environment is activated, install the required packages:
+  * pip install -r 
